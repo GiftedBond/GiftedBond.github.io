@@ -23,5 +23,14 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+```markdown
+- My name is Sergey Bondarik. I’m 35 years old. I’m married and I have one child.
+I am currently studying at the BSUIR.
+Currently I’m working as a technical specialist for Algoritm.
+- I can describe myself as a hard-working, responsible and organized person.
+I often have to deal with difficult situations and take quick decisions.
+One of my main strength is the ability to work under pressure.
+I’m very punctual. I am always on time for work.
+- In my free time I enjoy playing with my son and listen to music.
+I like traveling during holidays.
+```
