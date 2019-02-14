@@ -35,3 +35,5 @@ I’m very punctual. I am always on time for work.
 I like traveling during holidays.
 ```
 [FancyCalc](https://github.com/GiftedBond/FancyCalc.git)
+
+[Сертификат об окончании курса C# Basics - For Complete Beginners](https://www.udemy.com/certificate/UC-UAK2HD1L/?utm_campaign=email&utm_source=sendgrid.com&utm_medium=email)
