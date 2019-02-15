@@ -1,7 +1,7 @@
 
 ## ABOUT ME
 
-```markdown
+
 - My name is Sergey Bondarik. I’m 35 years old. I’m married and I have one child.
 I am currently studying at the BSUIR.
 Currently I’m working as a technical specialist for Algoritm.
@@ -9,12 +9,12 @@ Currently I’m working as a technical specialist for Algoritm.
 I often have to deal with difficult situations and take quick decisions.
 One of my main strength is the ability to work under pressure.
 I’m very punctual. I am always on time for work.
-```
+
 ## INTERESTS
-```markdown
+
 - In my free time I enjoy playing with my son and listen to music.
 I like traveling during holidays.
-```
+
 ## TASKS
 Padawans .NET:
 
