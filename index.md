@@ -1,28 +1,6 @@
-## Welcome to Sergey Bondarik
 
 You can use the [editor on GitHub](https://github.com/GiftedBond/GiftedBond.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 ```markdown
 - My name is Sergey Bondarik. I’m 35 years old. I’m married and I have one child.
 I am currently studying at the BSUIR.
