@@ -17,7 +17,7 @@ I like traveling during holidays.
 ```
 TASKS
 ```markdown
-##Padawans .NET:
+## Padawans .NET:
 [FancyCalc](https://github.com/GiftedBond/FancyCalc.git)
 [PadawansTask1](https://github.com/GiftedBond/PadawansTask1.git)
 [PadawansTask2](https://github.com/GiftedBond/PadawansTask2.git)
@@ -27,7 +27,7 @@ TASKS
 [PadawansTask6](https://github.com/GiftedBond/PadawansTask6.git)
 [PadawansTask13](https://github.com/GiftedBond/PadawansTask13.git)
 
-##Codewars:
+## Codewars:
 Link to my codewars profile: [Codewars](https://www.codewars.com/users/Gifted)
 
 
