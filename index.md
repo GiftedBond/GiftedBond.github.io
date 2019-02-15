@@ -30,6 +30,6 @@ Padawans .NET:
 Codewars:
 ```markdown
 Link to my codewars profile: [Codewars](https://www.codewars.com/users/Gifted)
-
-[Сертификат об окончании курса C# Basics - For Complete Beginners](https://www.udemy.com/certificate/UC-UAK2HD1L/?utm_campaign=email&utm_source=sendgrid.com&utm_medium=email)
 ```
+[Сертификат об окончании курса C# Basics - For Complete Beginners](https://www.udemy.com/certificate/UC-UAK2HD1L/?utm_campaign=email&utm_source=sendgrid.com&utm_medium=email)
+
