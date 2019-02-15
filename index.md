@@ -18,14 +18,14 @@ I like traveling during holidays.
 ## TASKS
 Padawans .NET:
 
-[FancyCalc](https://github.com/GiftedBond/FancyCalc.git)
-[PadawansTask1](https://github.com/GiftedBond/PadawansTask1.git)
-[PadawansTask2](https://github.com/GiftedBond/PadawansTask2.git)
-[PadawansTask3](https://github.com/GiftedBond/PadawansTask3.git)
-[PadawansTask4](https://github.com/GiftedBond/PadawansTask4.git)
-[PadawansTask5](https://github.com/GiftedBond/PadawansTask5.git)
-[PadawansTask6](https://github.com/GiftedBond/PadawansTask6.git)
-[PadawansTask13](https://github.com/GiftedBond/PadawansTask13.git)
+- [FancyCalc](https://github.com/GiftedBond/FancyCalc.git)
+- [PadawansTask1](https://github.com/GiftedBond/PadawansTask1.git)
+- [PadawansTask2](https://github.com/GiftedBond/PadawansTask2.git)
+- [PadawansTask3](https://github.com/GiftedBond/PadawansTask3.git)
+- [PadawansTask4](https://github.com/GiftedBond/PadawansTask4.git)
+- [PadawansTask5](https://github.com/GiftedBond/PadawansTask5.git)
+- [PadawansTask6](https://github.com/GiftedBond/PadawansTask6.git)
+- [PadawansTask13](https://github.com/GiftedBond/PadawansTask13.git)
 
 Codewars:
 
