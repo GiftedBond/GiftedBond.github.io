@@ -16,8 +16,8 @@ INTERESTS
 I like traveling during holidays.
 ```
 TASKS
-```markdown
 ## Padawans .NET:
+```markdown
 [FancyCalc](https://github.com/GiftedBond/FancyCalc.git)
 [PadawansTask1](https://github.com/GiftedBond/PadawansTask1.git)
 [PadawansTask2](https://github.com/GiftedBond/PadawansTask2.git)
@@ -26,10 +26,10 @@ TASKS
 [PadawansTask5](https://github.com/GiftedBond/PadawansTask5.git)
 [PadawansTask6](https://github.com/GiftedBond/PadawansTask6.git)
 [PadawansTask13](https://github.com/GiftedBond/PadawansTask13.git)
-
+```
 ## Codewars:
+```markdown
 Link to my codewars profile: [Codewars](https://www.codewars.com/users/Gifted)
-
 
 [Сертификат об окончании курса C# Basics - For Complete Beginners](https://www.udemy.com/certificate/UC-UAK2HD1L/?utm_campaign=email&utm_source=sendgrid.com&utm_medium=email)
 ```
