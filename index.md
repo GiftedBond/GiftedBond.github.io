@@ -25,6 +25,12 @@ Padawans .NET:
 - [PadawansTask4](https://github.com/GiftedBond/PadawansTask4.git)
 - [PadawansTask5](https://github.com/GiftedBond/PadawansTask5.git)
 - [PadawansTask6](https://github.com/GiftedBond/PadawansTask6.git)
+- [PadawansTask7](https://github.com/GiftedBond/PadawansTask7.git)
+- [PadawansTask8](https://github.com/GiftedBond/PadawansTask8.git)
+- [PadawansTask9](https://github.com/GiftedBond/PadawansTask9.git)
+- [PadawansTask10](https://github.com/GiftedBond/PadawansTask10.git)
+- [PadawansTask11](https://github.com/GiftedBond/PadawansTask11.git)
+- [PadawansTask12](https://github.com/GiftedBond/PadawansTask12.git)
 - [PadawansTask13](https://github.com/GiftedBond/PadawansTask13.git)
 
 Codewars:
