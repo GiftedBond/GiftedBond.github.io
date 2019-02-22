@@ -33,6 +33,8 @@ Padawans .NET:
 - [PadawansTask12](https://github.com/GiftedBond/PadawansTask12.git)
 - [PadawansTask13](https://github.com/GiftedBond/PadawansTask13.git)
 
+- [UdemyBasics](https://github.com/GiftedBond/UdemyBasics.git)
+
 Codewars:
 
 Link to my codewars profile: [Codewars](https://www.codewars.com/users/Gifted)
