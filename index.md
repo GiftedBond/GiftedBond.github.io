@@ -36,8 +36,8 @@ Padawans .NET:
 - [UdemyBasics](https://github.com/GiftedBond/UdemyBasics.git)
 
 Codewars:
-
 Link to my codewars profile: [Codewars](https://www.codewars.com/users/Gifted)
-
-[Сертификат об окончании курса C# Basics - For Complete Beginners](https://www.udemy.com/certificate/UC-UAK2HD1L/?utm_campaign=email&utm_source=sendgrid.com&utm_medium=email)
+Other links:
+[Certificate of Completion C# Basics - For Complete Beginners](https://www.udemy.com/certificate/UC-UAK2HD1L/?utm_campaign=email&utm_source=sendgrid.com&utm_medium=email)
+[Member of Microsoft Learn](https://techprofile.microsoft.com/en-gb/gifted)
 
