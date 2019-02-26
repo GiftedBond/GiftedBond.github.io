@@ -32,12 +32,16 @@ Padawans .NET:
 - [PadawansTask11](https://github.com/GiftedBond/PadawansTask11.git)
 - [PadawansTask12](https://github.com/GiftedBond/PadawansTask12.git)
 - [PadawansTask13](https://github.com/GiftedBond/PadawansTask13.git)
+- [PadawansTask15](https://github.com/GiftedBond/PadawansTask15.git)
 
 - [UdemyBasics](https://github.com/GiftedBond/UdemyBasics.git)
 
 Codewars:
-Link to my codewars profile: [Codewars](https://www.codewars.com/users/Gifted)
+
+Link to my codewars profile: 
+- [Codewars](https://www.codewars.com/users/Gifted)
+
 Other links:
-[Certificate of Completion C# Basics - For Complete Beginners](https://www.udemy.com/certificate/UC-UAK2HD1L/?utm_campaign=email&utm_source=sendgrid.com&utm_medium=email)
-[Member of Microsoft Learn](https://techprofile.microsoft.com/en-gb/gifted)
+- [Certificate of Completion C# Basics - For Complete Beginners](https://www.udemy.com/certificate/UC-UAK2HD1L/?utm_campaign=email&utm_source=sendgrid.com&utm_medium=email)
+- [Member of Microsoft Learn](https://techprofile.microsoft.com/en-gb/gifted)
 
